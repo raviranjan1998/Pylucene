@@ -1,0 +1,8 @@
+1>Download ZIP(adhoc.fire.en) from given link.
+2>Upload the ZIP(adhoc.fire.en) to your Google Drive.
+3>Open Google Colab.
+4>Run Installition Code of Pylucene.
+5>Run Testing Code(to see pylucene installed properly or not).
+6>Upload test.py(Used for indexing) and query.py(used for query Search) to colab.
+7>Follow the step written in text field on the collab.
+8>At last download all the 5 output files.
